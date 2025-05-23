@@ -48,6 +48,19 @@ I use this space to share my learning journey, academic projects, and hands-on e
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <!-- Highligted Respositories-->
+## 📁 Highlighted Repositories
+
+### 🔸 [Machine-Learning](https://github.com/Hazim-HF/Machine-Learning)
+A collection of supervised and unsupervised ML models built using real datasets. Includes classification, regression, clustering, and reinforcement learning examples.
+
+### 🔸 [Data-Management](https://github.com/Hazim-HF/Data-Management)
+Explores large-scale data processing using Hadoop, Spark, and Hive. Contains working examples, sandbox environments, and cloud integrations.
+
+### 🔸 [Unstructured-Data-Analysis](https://github.com/Hazim-HF/Unstructured-Data-Analysis)
+Analyzing text, audio, and images using various NLP and multimedia data mining techniques.
+
+### 🔸 [DataCamp](https://github.com/Hazim-HF/Personal-Project)
+Ongoing project in the area of interest.
 
 <!-- Reach me -->
 ## 📫 Let’s Connect
