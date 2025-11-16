@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hazim!
 
-🎓 Master's Student in Data Science & Analytics | 📊 Former Account Executive | 💻 Data Enthusiast  
+🎓 Master's Student in Data Science & Analytics | 📊 IT Executive at EON Berhad | 💻 Data Enthusiast  
 📍 Malaysia | 🧠 Always learning | 🧰 Tech-savvy with real-world data experience
 
 <!-- About Me -->
