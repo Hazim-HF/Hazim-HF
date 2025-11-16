@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Hazim!
 
 🎓 Master's Student in Data Science & Analytics | 📊 IT Executive at EON Berhad | 💻 Data Enthusiast  
-📍 Malaysia | 🧠 Always learning | 🧰 Tech-savvy with real-world data experience
+📍 Klang Valley, Malaysia | 🧠 Always learning | 🧰 Tech-savvy with real-world data experience
 
 <!-- About Me -->
 ## 🌱 About Me
 
-I’m currently pursuing my Master’s degree in Data Science and Analytics at UKM, building on my Actuarial Science background. After working professionally for two years as an Account Executive, I pivoted into tech and analytics to pursue my passion for data and decision-making.
-
-I use this space to share my learning journey, academic projects, and hands-on experience with real-world data and big data tools.
+I am currently working as an IT Executive at EON Berhad, specializing in SAP support, process automation using Microsoft Power Platform, and data pipeline/ETL maintenance with Boomi. Alongside my professional role, I am pursuing a Master’s degree in Data Science and Analytics at UKM, building on my foundation in Actuarial Science.
 
 <!-- Professional Interest-->
 ## 💼 Professional Interests
