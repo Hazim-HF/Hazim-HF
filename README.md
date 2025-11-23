@@ -16,6 +16,7 @@ I am currently working as an IT Executive at EON Berhad, specializing in SAP sup
 - Machine Learning (scikit-learn, PyTorch, TensorFlow)  
 - Unstructured Data (Text, Audio, Image)  
 - Visualization and storytelling with data
+- Automation (Python, Microsoft Power Platform)
 
 <!-- [tech stack](https://github.com/ileriayo/markdown-badges) -->
 # 💻  Tech Stack
